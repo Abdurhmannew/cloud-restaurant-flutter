@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "632720007692",
+    "firebase_url": "https://firstapp733-default-rtdb.firebaseio.com",
+    "project_id": "firstapp733",
+    "storage_bucket": "firstapp733.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632720007692:android:d9cded1c6807163b8bc429",
+        "android_client_info": {
+          "package_name": "com.example.cloudy_restaurant_APP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rLK9ue-zW3ot31kjSjDsoSspdrkes9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
