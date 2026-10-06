@@ -1,0 +1,47 @@
+name: cloudy_resturant
+description: "Cloudy Restaurant Flutter application."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: 1.0.8
+  carousel_slider: 5.0.0
+  cloud_firestore: 4.17.5
+  firebase_auth: 4.16.0
+  firebase_core: 2.32.0
+  flutter_native_splash: 2.4.3
+  font_awesome_flutter: 10.8.0
+  image_picker: 0.8.9
+  line_icons: 2.0.3
+  path: 1.9.0
+  provider: 6.1.2
+  sqflite: 2.4.1
+  uuid: 4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: 5.0.0
+  flutter_launcher_icons: 0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/Rubik-Regular.ttf
+        - asset: assets/fonts/Rubik-Bold.ttf
+          weight: 700
